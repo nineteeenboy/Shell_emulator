@@ -313,7 +313,8 @@ python shell_emulator.py -u <имя_пользователя> -v <путь_к_ZI
 ```bash
 python shell_emulator.py -u user1 -v test_vfs.zip -s startup_script.sh
 ```
-![Ручной ввод](C:/Users/korya/Desktop/Руч.png)
+![Ручной ввод](https://github.com/user-attachments/assets/3dcfa989-7a03-4d4e-a6a7-77e68022db77)
+
 
 ### **Запуск тестов:**
 ```bash
